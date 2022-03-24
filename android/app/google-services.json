@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767747323265",
+    "project_id": "lenideni",
+    "storage_bucket": "lenideni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767747323265:android:eed30c2417b93498ece480",
+        "android_client_info": {
+          "package_name": "com.example.lenideni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767747323265-7dadkroh4khnges7u4d00tdd661kkoqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPokhlGeBdIVgP9xAwpBv0cMeRz6-gcYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767747323265-7dadkroh4khnges7u4d00tdd661kkoqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
